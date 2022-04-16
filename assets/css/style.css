@@ -71,11 +71,12 @@ section#tela div#imagem{
     display: flex;
     justify-content: center;
     border-radius: 3rem;
-    width: 60%;
+    width: 40%;
 }
 
 section#tela div#imagem img{
     width: 40%;
+    display: flex;
     
 }
 
